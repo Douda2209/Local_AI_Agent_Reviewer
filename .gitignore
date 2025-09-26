@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test, coverage, and build outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Local environment/config
+.envrc
+
+# Copilot/AI agent artifacts
+.github/copilot-instructions.md
+GIT_REMINDER.md
