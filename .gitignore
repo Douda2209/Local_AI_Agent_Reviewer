@@ -41,3 +41,7 @@ build/
 # Copilot/AI agent artifacts
 .github/copilot-instructions.md
 GIT_REMINDER.md
+
+# Local vector DBs / embeddings
+reviews_embedd_db
+reviews_embedd_db/
