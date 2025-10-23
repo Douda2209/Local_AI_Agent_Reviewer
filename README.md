@@ -54,7 +54,7 @@ loc_AI_Agent/
 
 ## Integrations
 - **LangChain**: Core agent and workflow framework
-- **Ollama**: For local LLM inference (see [Ollama docs](https://ollama.com/))
+- **Ollama**: For local LLM inference (see [Ollama docs](https://ollama.com/)) will run in the background and expose a server/HTTP REST API and we will communicate with it from the program.
 - **Chroma**: For vector storage/retrieval (see [Chroma docs](https://docs.trychroma.com/))
 
 ## Contributing
